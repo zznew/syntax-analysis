@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1589960588 source:h:\documents\编译原理\实验\实验二\语法分析\yacc\yacc\main.cpp
+	<iostream>
+	<stack>
+	<ctype.h>
+	<cstring>
+
+1591180800 source:e:\张浩\documents\编译原理\实验\实验二\语法分析\yacc\yacc\main.cpp
+	<ctype.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
+1592464858 source:d:\users\administrator\desktop\201721232048-张浩-消除左递归\201721232048-实验二\语法分析\yacc\yacc\main.cpp
+	<ctype.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
+1592464858 source:d:\users\hp\downloads\201721232048-张浩-消除左递归\201721232048-张浩-消除左递归\201721232048-实验二\语法分析-源程序\yacc\yacc\main.cpp
+	<ctype.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
